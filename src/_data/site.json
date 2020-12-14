@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "name": "Of Pennies, Nickels, and Dimes",
+  "shortDesc": "Thoughts and ramblings about games after I have played them once, five times, and ten times.",
+  "url": "https://pennynickeldime.com",
+  "authorEmail": "pennynickeldimegames@pm.me",
+  "authorHandle": "@ngeunit1",
+  "authorName": "Dave McAvoy",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "paymentPointer": "$ilp.gatehub.net/699579699",
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
