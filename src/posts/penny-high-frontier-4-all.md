@@ -7,7 +7,7 @@ tags:
   - HighFrontier
   - PhilEklund
 ---
-*Note: I have mixed feeling writing about Phil Eklund's games due content of his essays (Pax Pamir) as well as the content of some of his footnotes (ex. Pax Renaissance). For now, I will be writing about them since I am interested in working through how those feeling affect my experience of his games.*
+*Note: I have mixed feeling writing about Phil Eklund's games due content of his essays (e.g. Pax Pamir) as well as the content of some of his footnotes (e.g. Pax Renaissance). For now, I will be writing about them since I am interested in working through how those feeling affect my experience of his games.*
 
 A little bit of a cheat here, I have played High Frontier (Third Edition) once, so this is not my first High Frontier play, but it was my first High Frontier 4 All play. And what a way to play! We had help from a very experienced player which keeps things moving smoothly. We played the Core game + Politics mostly due to the timeframe we had to play, which for a *"Core"* game is still quite a lot of game.
 
